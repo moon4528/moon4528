@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,100:1E90FF&height=150&section=header&text=✨%20moon4528_Github!%20🌙&fontSize=50&fontAlignY=50)
 # Hyungju Moon
 
 안정적인 시스템 아키텍처 위에 지능적인 기능을 조화롭게 녹여내는 과정을 즐깁니다. </br>
@@ -15,7 +16,7 @@
 ### 🏆 Awards
 | Award | Event | Project | Date |
 | :--- | :--- | :--- | :--- |
-| 최우수상 (1등) | TABA 아카데미 10기 프로젝트 발표회 | 👤[Vata](https://github.com/opensource-sw-5) | 2025.12.23 |
+| 최우수상 (1등) | TABA 아카데미 10기 프로젝트 발표회 | 📷[Postura](https://github.com/TABA-postura) | 2025.12.23 |
 | IITP 원장상 | TABA 아카데미 10기 우수교육생 |  | 2026.01.13 |
 
 ### 📜 Certifications
