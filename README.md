@@ -48,7 +48,7 @@
 
 
 ## 🖐️ Contact
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:luke4528@naver.com)
+- email : luke4528@naver.com
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:000080,100:87CEEB&height=150&section=footer)
 
