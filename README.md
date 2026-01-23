@@ -3,8 +3,6 @@
 안정적인 시스템 아키텍처 위에 지능적인 기능을 조화롭게 녹여내는 과정을 즐깁니다. </br>
 단순한 기능 구현을 넘어, 효율적인 백엔드 구조와 실용적인 AI 모델 사이의 최적화된 연결을 고민하며 성장하고 있습니다.
 
-GitHub에 바로 복사해서 사용하실 수 있는 프로젝트 테이블 양식입니다. 마크다운(Markdown) 문법을 사용하여 깔끔하게 정리해 두었습니다.
-
 
 ### 🚀 Projects
 
@@ -55,12 +53,8 @@ Tools
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
 </p>
 
-## ✨ Problem Solving
-<p align="left">
-  <a href="https://solved.ac/moon4528">
-    <img src="https://mazassumnida.vercel.app/api/generate_badge?boj=moon4528" alt="solved.ac tier" />
-  </a>
-</p>
+### 📫 Contact
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:luke4528@naver.com)
 
 <!--
 **moon4528/moon4528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
