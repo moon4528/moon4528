@@ -9,8 +9,8 @@
 | Project | Description | Role | Period |
 | :--- | :--- | :--- | :--- |
 | **👤[Vata](https://github.com/opensource-sw-5)** | stability.ai를 활용한 나만의 AI 프로필 생성 | Backend Developer | 2025.04 - 2025.06 |
-| **📷[Postura](https://github.com/TABA-postura)** | 웹캠 기반 실시간 자세 교정 웹 서비스 | Backend Developer·CI/CD 자동 배포 | 2025.10 - 2025.12 |
-| **⚽[AboutBayern Archive]()** | Gaussian Splatting을 활용한 팬덤 커뮤니티  | Full Stack·Toy Project | 2026.01 |
+| **📷[Postura](https://github.com/TABA-postura)** | 웹캠 기반 실시간 자세 교정 웹 서비스 | Backend Developer · CI/CD 자동 배포 | 2025.10 - 2025.12 |
+| **⚽[AboutBayern Archive]()** | Gaussian Splatting을 활용한 팬덤 커뮤니티  | Full Stack · Toy Project | 2026.01 |
 
 ### 🏆 Awards
 | Award | Event | Project | Date |
@@ -24,20 +24,21 @@
 | ADsP | 한국데이터산업진흥 | 2025.08 | 
 
 ### 🛠 Tech Stack
-Backend
+- Backend
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
 </p>
-AI
+
+- AI
 <P>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 </P>
 
-Infrastructure & DevOps
+- Infrastructure & DevOps
 <p> 
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"> 
   <img src="https://img.shields.io/badge/Route53-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"> 
@@ -46,7 +47,7 @@ Infrastructure & DevOps
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
 </p>
 
-Tools
+- Tools
 <p>
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
