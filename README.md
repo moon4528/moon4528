@@ -24,34 +24,27 @@
 | ADsP | 한국데이터산업진흥 | 2025.08 | 
 
 ### 🛠 Tech Stack
-- Backend
-<p>
+- Backend :
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
-</p>
 
-- AI
-<P>
+- AI :
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-</P>
 
-- Infrastructure & DevOps
-<p> 
+- Infra & DevOps :
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"> 
   <img src="https://img.shields.io/badge/Route53-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"> 
   <img src="https://img.shields.io/badge/ALB-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"> 
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"> 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-</p>
 
-- Tools
-<p>
+- Tools :
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-</p>
+
 
 ## 🖐️ Contact
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:luke4528@naver.com)
