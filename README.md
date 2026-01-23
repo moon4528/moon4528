@@ -53,7 +53,7 @@ Tools
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
 </p>
 
-### 📫 Contact
+## 🖐️ Contact
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:luke4528@naver.com)
 
 <!--
