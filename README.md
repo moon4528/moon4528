@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,100:1E90FF&height=150&section=header&text=✨%20moon4528_Github!%20🌙&fontSize=50&fontAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,100:1E90FF&height=150&section=header&text=✨%20moon4528_Github!%20🌙&fontSize=45&fontAlignY=40&fontColor=ffffff)
 # Hyungju Moon
 
 안정적인 시스템 아키텍처 위에 지능적인 기능을 조화롭게 녹여내는 과정을 즐깁니다. </br>
@@ -49,6 +49,8 @@
 
 ## 🖐️ Contact
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:luke4528@naver.com)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:000080,100:87CEEB&height=150&section=footer)
 
 <!--
 **moon4528/moon4528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
