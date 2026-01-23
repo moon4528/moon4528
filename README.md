@@ -23,8 +23,7 @@
 | :--- | :--- | :--- |
 | ADsP | 한국데이터산업진흥 | 2025.08 | 
 
-## 🛠 Tech Stack
-
+### 🛠 Tech Stack
 Backend
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
