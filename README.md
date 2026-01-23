@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,100:1E90FF&height=150&section=header&text=✨%20moon4528_Github!%20🌙&fontSize=45&fontAlignY=40&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,100:1E90FF&height=175&section=header&text=%20✨moon4528_Github🌙%20&fontSize=40&fontAlignY=40&fontColor=ffffff)
 # Hyungju Moon
 
 안정적인 시스템 아키텍처 위에 지능적인 기능을 조화롭게 녹여내는 과정을 즐깁니다. </br>
