@@ -47,8 +47,17 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
 
 ## 📌Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moon4528&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![MichaelOliseBenoit3iiGIF (3)](https://github.com/user-attachments/assets/5a35fe4b-740f-4f5b-a5fd-b1e16ab3044b)
+<table border="0">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=moon4528&show_icons=true&theme=tokyonight" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/5a35fe4b-740f-4f5b-a5fd-b1e16ab3044b" width="300px" />
+    </td>
+  </tr>
+</table>
+
 
 
 ## 🖐️ Contact
