@@ -46,11 +46,17 @@
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
 
+## 📌Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moon4528&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![MichaelOliseBenoit3iiGIF (3)](https://github.com/user-attachments/assets/5a35fe4b-740f-4f5b-a5fd-b1e16ab3044b)
+
 
 ## 🖐️ Contact
 - email : luke4528@naver.com
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:000080,100:87CEEB&height=150&section=footer)
+
+
 
 <!--
 **moon4528/moon4528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
