@@ -45,7 +45,7 @@
 - Tools :
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-
+<!--
 ## 📌Stats
 <table border="0">
   <tr>
@@ -57,7 +57,7 @@
     </td>
   </tr>
 </table>
-
+-->
 
 
 ## 🖐️ Contact
