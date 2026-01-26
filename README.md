@@ -1,9 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,100:1E90FF&height=175&section=header&text=%20✨moon4528_Github🌙%20&fontSize=40&fontAlignY=40&fontColor=ffffff)
+<div align="center">
+  
 # Hyungju Moon
 
-안정적인 시스템 아키텍처 위에 지능적인 기능을 조화롭게 녹여내는 과정을 즐깁니다. </br>
-단순한 기능 구현을 넘어, 효율적인 백엔드 구조와 실용적인 AI 모델 사이의 최적화된 연결을 고민하며 성장하고 있습니다. </br>
+DevOps / Backend Developer (In Training) </br>
 🎓 *B.S. in Computer Engineering, Dankook University*
+
+</div>
 
 ### 🚀 Projects
 
@@ -57,11 +60,6 @@
     </td>
   </tr>
 </table>
-
-
-
-## 🖐️ Contact
-- email : luke4528@naver.com
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:000080,100:87CEEB&height=150&section=footer)
 
