@@ -12,9 +12,9 @@ DevOps / Backend Developer (In Training) </br>
 
 | Project | Description | Role | Period |
 | :--- | :--- | :--- | :--- |
-| **👤[Vata](https://github.com/opensource-sw-5)** | (stability.ai 활용)나만의 AI 프로필 생성 | Backend Developer | 2025.04 - 2025.06 |
-| **📷[Postura](https://github.com/TABA-postura)** | 웹캠 기반 실시간 자세 교정 웹 서비스 | Backend Developer · CI/CD 자동 배포 | 2025.10 - 2025.12 |
-| **⚽[AboutBayern Archive]()** | (Gaussian Splatting 활용)팬덤 커뮤니티 | Full Stack · Toy Project | 2026.01 |
+| **👤[Vata](https://github.com/opensource-sw-5)** | (stability.ai 활용)</br>나만의 AI 프로필 생성 | Backend Developer | 2025.04 - 2025.06 |
+| **📷[Postura](https://github.com/TABA-postura)** | (Mediapipe Pose 활용)</br>웹캠 기반 실시간 자세 교정 웹 서비스 | Backend Developer · CI/CD 자동 배포 | 2025.10 - 2025.12 |
+| **⚽[AboutBayern Archive]()** | (Gaussian Splatting 활용)</br>바이에른 뮌헨 팬덤 커뮤니티 | Full Stack · Toy Project | 2026.01 |
 
 ### 🏆 Awards
 | Award | Event | Project | Date |
