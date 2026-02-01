@@ -53,15 +53,15 @@ DevOps / Backend Developer (In Training) </br>
 
 <div align="center">
   <table border="0">
-    <tr>
-      <td align="center" valign="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=moon4528&show_icons=true&theme=tokyonight&hide_border=true" alt="moon4528's GitHub Stats" />
-      </td>
-      <td align="center" valign="center">
-        <img src="https://github.com/user-attachments/assets/5a35fe4b-740f-4f5b-a5fd-b1e16ab3044b" width="350px" />
-      </td>
-    </tr>
-  </table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://metrics.lecoq.io/moon4528?base=header%2C%20repositories%2C%20metadata&theme=tokyonight" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/5a35fe4b-740f-4f5b-a5fd-b1e16ab3044b" width="300px" />
+    </td>
+  </tr>
+</table>
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:000080,100:87CEEB&height=150&section=footer)
