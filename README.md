@@ -16,6 +16,8 @@ DevOps / Backend Developer (In Training) </br>
 | **📷[Postura](https://github.com/TABA-postura)** | (Mediapipe Pose 활용)</br>웹캠 기반 실시간 자세 교정 웹 서비스 | Backend Developer · CI/CD 자동 배포 | 2025.10 - 2025.12 |
 | **⚽[AboutBayern Archive]()** | (Gaussian Splatting 활용)</br>바이에른 뮌헨 팬덤 커뮤니티 | Full Stack · Toy Project | 2026.01 |
 | **🕊️[SkyDetect](https://github.com/CAPSTONE-skydetect)** | (Random Forest 구축)</br>미확인 비행물체 탐지 시스템 | Backend Developer · AI Featuere Extraction | 2026.03 |
+| **🤖[CleanViewAI](https://github.com/donggyu-kang/clean-view-ai)** | (CNCF 활용)</br>RAG 추적 AI 시스템 | AI Server Developer | 2026.04 |
+
 
 ### 🏆 Awards
 | Award | Event | Project | Date |
