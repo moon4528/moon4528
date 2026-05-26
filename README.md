@@ -15,7 +15,7 @@ DevOps / Backend Developer (In Training) </br>
 | **👤[Vata](https://github.com/opensource-sw-5)** | (stability.ai 활용)</br>나만의 AI 프로필 생성 | Backend Developer | 2025.04 - 2025.06 |
 | **📷[Postura](https://github.com/TABA-postura)** | (Mediapipe Pose 활용)</br>웹캠 기반 실시간 자세 교정 웹 서비스 | Backend Developer · CI/CD 자동 배포 | 2025.10 - 2025.12 |
 | **⚽[AboutBayern Archive]()** | 바이에른 뮌헨 팬덤 커뮤니티 | Full Stack · Toy Project | 2026.01 |
-| **🕊️[SkyDetect](https://github.com/CAPSTONE-skydetect)** | (Random Forest 구축)</br>미확인 비행물체 탐지 시스템 | Backend Developer · AI Featuere Extraction | 2026.03 |
+| **🕊️[SkyDetect](https://github.com/CAPSTONE-skydetect)** | (CAPSTONE-design)</br>미확인 비행물체 탐지 시스템 | Backend Developer · AI Featuere Extraction | 2026.03 |
 | **🤖[CleanViewAI](https://github.com/donggyu-kang/clean-view-ai)** | (OpenTelemetry 활용)</br>RAG 추적 AI 시스템 | AI Server Developer | 2026.04 |
 | **🌊[FitBack](https://github.com/TAVE-Counsalad)** | (TAVE 후반기 연합프로젝트)</br>AI 상담 후속관리 시스템 | Backend Developer | 2026.05 - 2026.07 |
 
