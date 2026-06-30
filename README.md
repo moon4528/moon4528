@@ -52,7 +52,7 @@ DevOps / Backend Developer (In Training) </br>
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:000080,100:87CEEB&height=150&section=footer)
+<!--![footer](https://capsule-render.vercel.app/api?type=waving&color=0:000080,100:87CEEB&height=150&section=footer)-->
 
 
 
