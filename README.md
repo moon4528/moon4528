@@ -8,6 +8,8 @@ DevOps / Backend Developer (In Training) </br>
 
 </div>
 
+<div align="center">
+  
 ### Projects
 
 | Project | Description | Role | Period |
@@ -26,6 +28,8 @@ DevOps / Backend Developer (In Training) </br>
 | 2025.10 ~ 2025.12 | 대학·기업 협력형 SW아카데미 TABA 10기 | 수료 | 프로젝트 최우수상 (1위) / IITP 원장상 (우수교육생) |
 | 2026.03 ~ 2026.07 | IT 연합동아리 TAVE 17기 | 수료 | - |
 | 2026.09 | 정보처리기사 | - | 한국산업인력공단 |
+
+</div>
 
 ### 🛠 Tech Stack
 - Backend :
