@@ -20,7 +20,7 @@ DevOps / Backend Developer (In Training) </br>
 | **🌊[FitBack](https://github.com/TAVE-FitBack)** | (TAVE 후반기 연합프로젝트)</br>AI 상담 후속관리 시스템 | Backend Developer | 2026.05 - 2026.07 |
 
 
-### activity history
+### Activity History
 | Period | Name | Status | Note |
 | :--- | :--- | :--- | :--- |
 | 2021.03 ~ 2027.02 | 단국대학교 컴퓨터공학과 | 졸업 예정 | - |
