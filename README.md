@@ -8,7 +8,7 @@ DevOps / Backend Developer (In Training) </br>
 
 </div>
 
-### 🚀 Projects
+### Projects
 
 | Project | Description | Role | Period |
 | :--- | :--- | :--- | :--- |
@@ -18,16 +18,14 @@ DevOps / Backend Developer (In Training) </br>
 | **🌊[FitBack](https://github.com/TAVE-FitBack)** | (TAVE 후반기 연합프로젝트)</br>AI 상담 후속관리 시스템 | Backend Developer | 2026.05 - 2026.07 |
 
 
-### 🏆 Awards
-| Award | Event | Project | Date |
+### activity history
+| Period | Name | Status | Note |
 | :--- | :--- | :--- | :--- |
-| 최우수상 (1등) | TABA 아카데미 10기 프로젝트 발표회 | 📷[Postura](https://github.com/TABA-postura) | 2025.12.23 |
-| IITP 원장상 | TABA 아카데미 10기 우수교육생 |  | 2026.01.13 |
-
-### 📜 Certifications
-| Certification	| Issuer | Issued |
-| :--- | :--- | :--- |
-| ADsP | 한국데이터산업진흥 | 2025.08 | 
+| 2021.03 ~ 2027.02 | 단국대학교 컴퓨터공학과 | 졸업 예정 | - |
+| 2025.08 | ADsP 자격증 | 취득 | 한국데이터산업진흥 |
+| 2025.10 ~ 2025.12 | 대학.기업 협력형 SW아카데미 TABA 10기 | 수료 | 프로젝트 최우수상 (1위) / IITP 원장상 (우수교육생) |
+| 2026.03 ~ 2026.07 | IT 연합동아리 TAVE 17기 | 수료 | - |
+| 2026.09 | 정보처리기사 | - | 한국산업인력공단 |
 
 ### 🛠 Tech Stack
 - Backend :
