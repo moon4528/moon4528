@@ -29,29 +29,30 @@ DevOps / Backend Developer (In Training) </br>
 | 2026.03 ~ 2026.07 | IT 연합동아리 TAVE 17기 | 수료 | - 백엔드 파트 |
 | 2026.09 | 정보처리기사 | 취득 예정 | - 한국산업인력공단 |
 
-</div>
 
-### 🛠 Tech Stack
-- Backend :
+### Tech Stack
+Backend :
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
 
-- AI :
+AI :
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 
-- Infra & DevOps :
+Infra & DevOps :
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"> 
   <img src="https://img.shields.io/badge/Route53-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"> 
   <img src="https://img.shields.io/badge/ALB-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"> 
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"> 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
 
-- Tools :
+Tools :
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+
+</div>
 
 <!--![footer](https://capsule-render.vercel.app/api?type=waving&color=0:000080,100:87CEEB&height=150&section=footer)-->
 
