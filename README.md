@@ -14,7 +14,7 @@ DevOps / Backend Developer (In Training) </br>
 
 | Project | Description | Role | Period |
 | :--- | :--- | :--- | :--- |
-| **📷[Postura](https://github.com/TABA-postura)** | (SW아카데미 TABA 프로젝트)</br>웹캠 기반 실시간 자세 교정 웹서비스 | Backend Developer · CI/CD 자동 배포 | 2025.10 - 2025.12 |
+| **📷[Postura](https://github.com/TABA-postura)** | (SW아카데미 TABA 프로젝트)</br>웹캠 기반 실시간 자세 교정 서비스 | Backend Developer · CI/CD 자동 배포 | 2025.10 - 2025.12 |
 | **⚽AboutBayern Archive** | 바이에른 뮌헨 팬덤 커뮤니티 | Full Stack · Toy Project | 2026.01 |
 | **🕊️[SkyDetect](https://github.com/CAPSTONE-skydetect)** | (CAPSTONE-design)</br>미확인 비행물체 탐지 시스템 | Backend Developer · AI Featuere Extraction | 2026.03 |
 | **🌊[FitBack](https://github.com/TAVE-FitBack)** | (TAVE 후반기 연합프로젝트)</br>AI 상담 후속관리 시스템 | Backend Developer | 2026.05 - 2026.07 |
