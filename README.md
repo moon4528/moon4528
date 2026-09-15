@@ -2,7 +2,7 @@
 <div align="center">
   
 # Hyungju Moon
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-65776F?style=for-the-badge&logo=githubpages&logoColor=white)](https://moon4528.github.io/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-3B443F?style=for-the-badge&logo=githubpages&logoColor=white)](https://moon4528.github.io/)
 [![Resume](https://img.shields.io/badge/RESUME-65776F?style=for-the-badge&logo=googledocs&logoColor=white)](https://moon4528.github.io/resume/)
 </br>
 DevOps / Backend Developer (In Training) </br>
